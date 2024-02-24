@@ -12,7 +12,7 @@ setupApp()
 android {
     namespace = "com.github.shadowsocks.tv"
     defaultConfig {
-        applicationId = "com.github.shadowsocks.tv"
+        applicationId = "com.github.shadowsocks_nonofficial.tv"
         buildConfigField("boolean", "FULLSCREEN", "false")
     }
     flavorDimensions.add("market")
